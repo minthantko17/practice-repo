@@ -1,0 +1,2 @@
+this is b.txt in master branch 
+created after creating branch1--branch1 should not show this
